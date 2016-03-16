@@ -1,1 +1,41 @@
-gbrhrhnrhrbgrfsa;flkas;fkasfd;lk
+# Nim   : 131113387 
+# Nama  : Dedy Kurniawan Gultom
+# Kelas : TP-B Pagi
+
+
+1.	Apakah anda setuju atau tidak dengan pendapat turing ?
+2.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut!
+Jawab
+1.	Saya setuju, karena sebuah mesin juga dapat memutuskan sebuah keputusan dan juga bisa menentukan sebuah pilihan melalui program –program  atau sistem artificial inteligence yang telah ditanamkan, meskipun kecerdasan dan penalaran manusia terhadap pertanyaan yang diberikan lebih sempurna dibandingkan sebuah mesin yang memiliki Artificial Intelligence namun kebanyakan manusia masih membutuhkan waktu yang lebih banyak untuk mengatasi ataupun memahami sebuah kasus ataupun permasalahan karena adanya ketidakteraturan terhadap pemikiran manusia. Sedangkan mesin yang memiliki artificial inteligence hanya membutuhkan waktu yang cukup singkat  untuk memecahkan sebuah permasalahan tersebut. Walaupun permasalahan tersebut hanyalah permasalahan yang terbatas.
+
+2.	Menurut saya kemungkinan untuk sebuah mesin dapat melewati tes turing dan mampu memanipulasi , meniru,  ataupun mengelabuhi manusia seakan manusia tersebut tidak mengetahui bahwa ia sedang bekomunikasi dengan sebuah mesin atau pun sebuah robot itu bisa saja terjadi karena perkembangan teknologi yang pesat. Namun pada suatu saat mesin itu juga akan mengalami sebuah kendala dalam mengatasi sebuah situasi dan menentukan sebuah pilihan yang tepat karena pada akhirnya mesin akan mempunyai sebuah batasan. Ketika sebuah mesin berada pada situasi yang tidak sesuai dengan program atau sistem yang ditanamkan maka mesin tersebut tidak akan dapat mengatasi situasi tersebut.
+
+3.	Hambatan utama untuk sebuah komputer melewati tes turing adalah komputer tidak memiliki emosi dan sikap yang dimiliki oleh manusia. Meskipun sudah ada beberapa sistem yang ddibuat memiliki emosi buatan, tetapi emosi tersebut masih sederhana dan sangat kaku dan juga memori yang terbatas sangat mempengaruhi program yang akan dimasukkan kedalam mesin sedangkan pemikiran  yang ada dalam manusia tidaklah terbatas.
+
+Penjelasan istilah pada bidang AI:
+a.	Pengolahan Bahasa Alami:  
+yaitu program yang memberi kemampuan pada komputer untuk berkomunikasi dengan user dengan menggunakan bahasa manusia yang alami seperti dalam bahasa Indonesia, Inggris, Jepang atau yang lainnya. Natural Language Processing berkesimpulan jika seseorang dapat mendefinisikan semua pola tersebut dan menjelaskannya pada komputer maka hal ini akan mempermudah seseorang untuk mempelajari mesin komputer tentang bagaimana berbicara dengan komputer dan memahami maksudnya.
+Contoh: program translator bahasa
+b.	Knowledge Representation(Representasi pengetahuan):
+Di dalam pengembangan sistem pakar, representasi pengetahuan merupakan tahap yang memiliki peran penting. Mengapa demikian? Hasil akuisisi pengetahuan yang dilakukan oleh Knowledge Engineer (KE), tidak menjamin pengetahuan yang dihasilkan diperoleh secara terstruktur dan tidak ambigu. Untuk memudahkan pengetahuan tersebut masuk ke dalam basis pengetahuan, dilakukan proses yang disebut representasi pengetahun /Knowledge Representation.
+Jadi, representasi pengetahuan adalah sebagai cara untuk menjadikan pengetahuan lebih terstruktur. Karena karekateristik pakar, jenis pengetahuan dan data yang sangat beragam, ini pula yang menyebabkan adanya berbagai teknik dalam representasi pengetahuan. Berikut beberaapa teknik akuisisi pengetahuan yang ada:
+1.	Object – atribut – value (OAV) triplet
+2. Rules
+3. Semantic Network
+4. Frame
+5. Predicate Logic
+6. Fuzzy Representation
+c.	Automated Reasoning: 
+adalah seni dan ilmu yang menjadikan komputer untuk  menerapkan penalaran logis dalam memecahkan masalah, misalnya untuk membuktikan teorema, memecahkan teka-teki, sirkuit desain, verifikasi atau mensintesis program komputer. Objek penalaran otomatis adalah menulis program komputer yang membantu dalam memecahkan masalah dan dalam menjawab pertanyaan-pertanyaan yang membutuhkan penalaran. Bantuan yang diberikan oleh program penalaran otomatis tersedia dalam dua modus yang berbeda.
+
+d.	Machine learning adalah sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Mesin bisa menghadapi pola baru, situasi baru, dan bisa beradaptasi atas itu.
+Contoh: Manfaat Machine Learning dalam kehidupan sehari-hari yaitu speech recognition, fingerprint recognition atau handwriting recognition. Banyak sekali riset dilakukan untuk menciptakan mesin yang lebih cerdas. Contoh yang paling mutakhir yang dapat kita lihat adalah Asimo, sebuah robot cerdas buatan Honda, yang dapat mengenali pemiliknya dan mengenal emosi. Agar dapat membuat sebuah robot secerdas Asimo, maka beberapa teknik AI diaplikasikan kedalamnya, seperti speech recognition untuk dapat berinteraksi, image recognition untuk dapat mengenali wajah pemiliknya dan mengenali ruangan dan banyak lagi. 
+
+e.	Computer Vision: 
+merupakan salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati/ diobservasi. Cabang ilmu ini bersama Intelijensia Semu (Artificial Intelligence) akan mampu menghasilkan sistem intelijen visual (Visual Intelligence System).
+
+f.	Robotica:
+Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot atau . Ilmu yang mempelajari membuat bentuk fisik dan isi program pada robot tersebut.
+ 
