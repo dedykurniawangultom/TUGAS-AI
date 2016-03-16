@@ -1,6 +1,6 @@
-# Nim   : 131113387 
-# Nama  : Dedy Kurniawan Gultom
-# Kelas : TP-B Pagi
+ Nim   : 131113387 
+ Nama  : Dedy Kurniawan Gultom
+ Kelas : TP-B Pagi
 
 
 1.	Apakah anda setuju atau tidak dengan pendapat turing ?
